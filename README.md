@@ -1,6 +1,7 @@
 # 👋 Hi, I’m David!
 
 In April 2024, I graduated with a B.S. in Computer Science with a minor in Math from Michigan State University.
+In January 2025, I started a full-time role at Amazon as a Software Development Engineer!
 
 Since my first Computer Science class in High School, I've loved building software and learning new ways to solve novel problems using software!
 - Some of my interests include:
